@@ -1,17 +1,15 @@
-//
-//  WondersApp.swift
-//  Wonders
-//
-//  Created by Ishaan Bedi on 11/05/23.
-//
-
 import SwiftUI
 
 @main
 struct WondersApp: App {
+
+    @State private var vm = LocationsViewModel()
+
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LocationsView()
+                .environmentObject(vm)
         }
     }
+
 }
