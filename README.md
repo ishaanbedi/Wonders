@@ -29,4 +29,4 @@ The app is built with SwiftUI and MapKit, providing a seamless user experience.
 - [Swiftful Thinking Course](https://www.youtube.com/playlist?list=PLwvDm4Vfkdpha5eVTjLM0eRlJ7-yDDwBk)
 
 ### License
-This project is licensed under the MIT License. See the [LICENSE](license) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ishaanbedi/Wonders/blob/main/LICENSE) file for details.
