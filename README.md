@@ -22,11 +22,5 @@ The app is built with SwiftUI and MapKit, providing a seamless user experience.
 - Build and run the app on a simulator or a physical device.
 
 
-### References
-- [SwiftUI](https://developer.apple.com/xcode/swiftui/) 
-- [MapKit](https://developer.apple.com/documentation/mapkit/)
-- [Unsplash](https://unsplash.com/)
-- [Swiftful Thinking Course](https://www.youtube.com/playlist?list=PLwvDm4Vfkdpha5eVTjLM0eRlJ7-yDDwBk)
-
 ### License
 This project is licensed under the MIT License. See the [LICENSE](license) file for details.
