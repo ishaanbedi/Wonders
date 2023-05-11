@@ -21,7 +21,7 @@ The app is built with SwiftUI and MapKit, providing a seamless user experience.
 - Open the project in Xcode.
 - Build and run the app on a simulator or a physical device.
 
-￼
+
 ### References
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/) 
 - [MapKit](https://developer.apple.com/documentation/mapkit/)
