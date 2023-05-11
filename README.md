@@ -23,4 +23,4 @@ The app is built with SwiftUI and MapKit, providing a seamless user experience.
 
 
 ### License
-This project is licensed under the MIT License. See the [LICENSE](license) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ishaanbedi/Wonders/blob/main/LICENSE) file for details.
