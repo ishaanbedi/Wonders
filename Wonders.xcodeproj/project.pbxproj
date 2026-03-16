@@ -7,9 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2E4A45BF2F67EBE200AF400D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E4A45BE2F67EBE200AF400D /* Assets.xcassets */; };
 		2E680DA82A0CCECE0014C4E6 /* WondersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E680DA72A0CCECE0014C4E6 /* WondersApp.swift */; };
-		2E680DAF2A0CCED00014C4E6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E680DAE2A0CCED00014C4E6 /* Preview Assets.xcassets */; };
-		2E680DB82A0CCF2E0014C4E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E680DB72A0CCF2E0014C4E6 /* Assets.xcassets */; };
 		2E680DBB2A0CCF480014C4E6 /* LocationDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E680DBA2A0CCF480014C4E6 /* LocationDataService.swift */; };
 		2E680DBE2A0CCF640014C4E6 /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E680DBD2A0CCF640014C4E6 /* Location.swift */; };
 		2E680DC52A0CCF920014C4E6 /* LocationDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E680DC02A0CCF920014C4E6 /* LocationDetailView.swift */; };
@@ -21,10 +20,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2E4A45BE2F67EBE200AF400D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2E680DA42A0CCECE0014C4E6 /* Wonders.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Wonders.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E680DA72A0CCECE0014C4E6 /* WondersApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WondersApp.swift; sourceTree = "<group>"; };
-		2E680DAE2A0CCED00014C4E6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		2E680DB72A0CCF2E0014C4E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../Documents/DP/Apple India/Apple India/Assets.xcassets"; sourceTree = "<group>"; };
 		2E680DBA2A0CCF480014C4E6 /* LocationDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationDataService.swift; sourceTree = "<group>"; };
 		2E680DBD2A0CCF640014C4E6 /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
 		2E680DC02A0CCF920014C4E6 /* LocationDetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationDetailView.swift; sourceTree = "<group>"; };
@@ -70,18 +68,9 @@
 				2E680DBF2A0CCF800014C4E6 /* View */,
 				2E680DCA2A0CCFAC0014C4E6 /* ViewModel */,
 				2E680DB92A0CCF3C0014C4E6 /* DataService */,
-				2E680DB72A0CCF2E0014C4E6 /* Assets.xcassets */,
-				2E680DAD2A0CCED00014C4E6 /* Preview Content */,
+				2E4A45BE2F67EBE200AF400D /* Assets.xcassets */,
 			);
 			path = Wonders;
-			sourceTree = "<group>";
-		};
-		2E680DAD2A0CCED00014C4E6 /* Preview Content */ = {
-			isa = PBXGroup;
-			children = (
-				2E680DAE2A0CCED00014C4E6 /* Preview Assets.xcassets */,
-			);
-			path = "Preview Content";
 			sourceTree = "<group>";
 		};
 		2E680DB92A0CCF3C0014C4E6 /* DataService */ = {
@@ -178,8 +167,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2E680DAF2A0CCED00014C4E6 /* Preview Assets.xcassets in Resources */,
-				2E680DB82A0CCF2E0014C4E6 /* Assets.xcassets in Resources */,
+				2E4A45BF2F67EBE200AF400D /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -326,8 +314,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Wonders/Preview Content\"";
-				DEVELOPMENT_TEAM = F7JY38PGBF;
+				DEVELOPMENT_TEAM = WH7X9WWDV3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -355,8 +342,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Wonders/Preview Content\"";
-				DEVELOPMENT_TEAM = F7JY38PGBF;
+				DEVELOPMENT_TEAM = WH7X9WWDV3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
